@@ -1,0 +1,1 @@
+Lấy API từ WeatherAPI
