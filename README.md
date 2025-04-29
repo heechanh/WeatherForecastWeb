@@ -14,7 +14,7 @@ Dự án Web dự báo thời tiết hiện đại sử dụng **WeatherAPI**. G
 - 🌬️ **Bản đồ gió**, 🌧️ **mưa**, 🌡️ **nhiệt độ** tương tác trực tiếp (sử dụng WeatherAPI hoặc Mapbox Layer)
 - 🌗 Giao diện **responsive**, hỗ trợ cả máy tính và điện thoại
 - 🔊 (Tùy chọn) Âm thanh thời tiết tương ứng
-
+-Hình nền thay đổi theo thời tiết
 ---
 
 ## 🧰 Công nghệ sử dụng
