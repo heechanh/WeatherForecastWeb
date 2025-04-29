@@ -29,7 +29,10 @@ Dự án Web dự báo thời tiết hiện đại sử dụng **WeatherAPI**. G
 
 ## 📸 Demo (Ảnh/GIF minh hoạ)
 demo.docs
-
+## Một số file chạy bên ngoài 
+cityAPI.py là file để lấy thành phố yêu thích 
+SQLQuery1.sql tạo csdl
+chạy file cityAPI.py thì mới có thể thêm thành phố yêu thích 
 
 ## 🔧 Cách chạy dự án
 
